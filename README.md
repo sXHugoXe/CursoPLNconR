@@ -18,7 +18,7 @@ Si deseas tener clases directamente con el creador de este curso toma los progra
 
 ## Acerca del autor
 
-¡Hola! Soy Hugo Boanerges Porras Encalada (si deseas saber más de mi nombre lo tienes acá: [Boanerges](https://xacopedia.com/Boanerges), y mi [LikendIN por acá](https://www.linkedin.com/in/hugo-b-porras-e-bb405512b/)). Soy ingeniero en Ciencias Económicas y Financieras graduado en la Escuela Politécnica Nacional en Quito, Ecuador; y tengo una maestría en Inteligencia Artificial de la Universidad Internacional de la Rioja. Soy científico de datos senior en el Banco del Pacífico en Guayaquil, Ecuador, y hago consultorías independientes en temas relacionadas a las finanzas de bienes raíces, geo-estadística, ciencia de datos, procesamiento de señales y procesamiento del lenguaje natural.
+¡Hola! Soy Hugo Boanerges Porras Encalada (si deseas saber más de mi nombre lo tienes acá: [Boanerges](https://xacopedia.com/Boanerges), y mi [LikendIn por acá](https://www.linkedin.com/in/hugo-b-porras-e-bb405512b/)). Soy ingeniero en Ciencias Económicas y Financieras graduado en la Escuela Politécnica Nacional en Quito, Ecuador; y tengo una maestría en Inteligencia Artificial de la Universidad Internacional de la Rioja. Soy científico de datos senior en el Banco del Pacífico en Guayaquil, Ecuador, y hago consultorías independientes en temas relacionados a las finanzas de bienes raíces, geo-estadística, ciencia de datos, procesamiento de señales y procesamiento del lenguaje natural.
 
 Con este curso (y próximamente más), mi meta es una sola: Difundir el conocimiento. Porque como decía mi papá: ''El conocimiento no se lo debes negar a nadie, más aún si tienes la capacidad de compartirlo''. Sin más, no dudes en compartir tus dudas, experiencias y/o sugerencias.
 
