@@ -9,27 +9,12 @@ output: beamer_presentation
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## R Markdown
+# **1. Motivación e introducción**
 
-This is an R Markdown presentation. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+## **1.1. ¿Qué es la inteligencia artificial (IA)?**
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.
+![](figuras/00_IA.jpg)
 
-## Slide with Bullets
+## Detrás de la IA
 
-- Bullet 1
-- Bullet 2
-- Bullet 3
-
-## Slide with R Output
-
-```{r cars, echo = TRUE}
-summary(cars)
-```
-
-## Slide with Plot
-
-```{r pressure}
-plot(pressure)
-```
-
+*''Nos llamamos a nosotros mismos Homo sapiens - hombre sabio - porque nuestra inteligencia es muy importante para nosotros. Por miles de años hemos intentado entender cómo pensamos; es decir, cómo un mero puñado de masa puede percibir, entender, predecir y manipular un mundo mucho más grande y complicado que sí mismo. El campo de la inteligencia artificial, o IA, va más allá: intenta no solo entender sino también construir entes inteligentes.''* (traducido del inglés). 
