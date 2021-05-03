@@ -8,6 +8,8 @@ En este curso te introducirás a este maravilloso mundo al entender varias defin
 
 Al final verás publicada no solo la teoría y ejercicios prácticos cortos de cada tema, sino también casos prácticas de distinta temática y aplicación. 
 
+En la última sección de este archivo informativo encontrarás cada uno de los capítulos conforme los vaya publicando.
+
 ## Presentación
 
 Este es un curso de introducción al procesamiento del lenguaje natural y mineo de texto con R diseñado para todas aquellas personas que deseen involucrarse en este fascinante mundo. Para tomarlo solo necesitas tener ganas de aprender y el fervor de dedicarte a estudiar. Además, ¡el curso es totalmente libre y en español! Así que no olvides compartirlo.
@@ -23,3 +25,7 @@ Si deseas tener clases directamente con el creador de este curso toma los progra
 Con este curso (y próximamente más), mi meta es una sola: Difundir el conocimiento. Porque como decía mi papá: ''El conocimiento no se lo debes negar a nadie, más aún si tienes la capacidad de compartirlo''. Sin más, no dudes en compartir tus dudas, experiencias y/o sugerencias.
 
 ¡Suerte en tu aprendizaje!
+
+## Capítulos
+
++ [Capítulo 01: Introducción](C01_Introduccion.pdf)
