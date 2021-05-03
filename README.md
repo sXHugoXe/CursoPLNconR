@@ -28,4 +28,4 @@ Con este curso (y próximamente más), mi meta es una sola: Difundir el conocimi
 
 ## Capítulos
 
-+ [Capítulo 01: Introducción](C01_Introduccion.pdf)
++ [Capítulo 01: Introducción](capítulos/C01_Introduccion.pdf)
