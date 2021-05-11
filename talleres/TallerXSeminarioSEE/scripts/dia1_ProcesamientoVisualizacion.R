@@ -1,7 +1,7 @@
 # Carga de librerías ------------------------------------------------------
 
-install.packages(c("tidyverse","tidytext","udpipe","epubr","stopwords","tm",
-                   "SnowballC","ggthemes","echarts4r","igraph","ggraph"))
+# install.packages(c("tidyverse","tidytext","udpipe","epubr","stopwords","tm",
+#                    "SnowballC","ggthemes","echarts4r","igraph","ggraph"))
 
 library(tidyverse)
 library(tidytext)
