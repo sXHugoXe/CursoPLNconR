@@ -222,8 +222,12 @@ knitr::include_graphics("../../../figuras/NLP_Resources.jpg")
 
 ##
 
+[¡Da clic aquí antes de que el script acabe durmiendo con los peces!](https://github.com/sXHugoXe/CursoPLNconR/blob/main/talleres/TallerXSeminarioSEE/scripts/dia1_ProcesamientoVisualizacion.R)
+
 ```{r, echo=FALSE, out.width="90%", fig.align="center"}
 knitr::include_graphics("../../../figuras/TheGodfather.jpg")
 ```
+
++ [Link a los datos, por si quieres ir preparado.](https://github.com/sXHugoXe/CursoPLNconR/tree/main/recursos/el_padrino.epub)
 
 ## Referencias

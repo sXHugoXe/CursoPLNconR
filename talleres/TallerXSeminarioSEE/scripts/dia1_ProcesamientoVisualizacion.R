@@ -1,5 +1,8 @@
 # Carga de librerías ------------------------------------------------------
 
+install.packages(c("tidyverse","tidytext","udpipe","epubr","stopwords","tm",
+                   "SnowballC","ggthemes","echarts4r","igraph","ggraph"))
+
 library(tidyverse)
 library(tidytext)
 library(udpipe)
@@ -9,14 +12,13 @@ library(tm)
 library(SnowballC)
 library(ggthemes)
 library(echarts4r)
-library(syuzhet)
-library(parallel)
 library(igraph)
 library(ggraph)
 
 # Carga de datos ----------------------------------------------------------
 
 # Libro: El Padrino - Mario Puzzo
+# Link a los datos: https://github.com/sXHugoXe/CursoPLNconR/tree/main/recursos/el_padrino.epub
 raw_padrino = epub(file = "recursos/el_padrino.epub")
 raw_padrino %>% head()
 length(raw_padrino$data)
