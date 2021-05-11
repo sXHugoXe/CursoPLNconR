@@ -32,6 +32,7 @@ Con este curso (y próximamente más), mi meta es una sola: Difundir el conocimi
 
 ## Talleres
 
-+ Introducción al uso de técnicas de procesamiento del lenguaje natural y aprendizaje automático ([X Seminario Internacional de Estadística Aplicada (SEE)](https://congreso.see-ec.org/))
-  + [Día 1: Introducción al PLN y el Mineo de Texto con R](capitulos/TallerSEE_Dia1.pdf)
-  + [Día 2: Introducción al aprendizaje automático con datos de texto en R](capitulos/TallerSEE_Dia2.pdf)
++ Introducción al uso de técnicas de procesamiento del lenguaje natural y aprendizaje automático ([X Seminario Internacional de Estadística Aplicada organizado por SEE](https://congreso.see-ec.org/))
+  + [Día 1: Introducción al PLN y el Mineo de Texto con R](talleres/TallerXSeminarioSEE/material/TallerSEE_Dia1.pdf)
+  + [Script día 1](talleres/TallerXSeminarioSEE/scripts/dia1_ProcesamientoVisualizacion.R)
+  + [Día 2: Introducción al aprendizaje automático con datos de texto en R](talleres/TallerXSeminarioSEE/material/TallerSEE_Dia2.pdf)
