@@ -6,7 +6,7 @@ El procesamiento del lenguaje natural (NLP por sus siglas en inglés - Natural L
 
 En este curso te introducirás a este maravilloso mundo al entender varias definiciones, procesos y técnicas para el procesamiento de texto que incluyen por ejemplo la neurolematización, el análisis de sentimientos y el modelamiento de tópicos. Además aprenderás a obtener y preparar datos de texto de varias fuentes a fin de modelarlos con distintas técnicas de aprendizaje automático y aprendizaje profundo. 
 
-Al final verás publicada no solo la teoría y ejercicios prácticos cortos de cada tema, sino también casos prácticas de distinta temática y aplicación. 
+Al final verás publicada no solo la teoría y ejercicios prácticos cortos de cada tema, sino también casos prácticos de distinta temática y aplicación. 
 
 En la última sección de este archivo informativo encontrarás cada uno de los capítulos conforme los vaya publicando.
 
@@ -28,4 +28,10 @@ Con este curso (y próximamente más), mi meta es una sola: Difundir el conocimi
 
 ## Capítulos
 
-+ [Capítulo 01: Introducción](capítulos/C01_Introduccion.pdf)
++ [Capítulo 01: Introducción](capitulos/C01_Introduccion.pdf)
+
+## Talleres
+
++ Introducción al uso de técnicas de procesamiento del lenguaje natural y aprendizaje automático ([X Seminario Internacional de Estadística Aplicada (SEE)](https://congreso.see-ec.org/))
+  + [Día 1: Introducción al PLN y el Mineo de Texto con R](capitulos/TallerSEE_Dia1.pdf)
+  + [Día 2: Introducción al aprendizaje automático con datos de texto en R](capitulos/TallerSEE_Dia2.pdf)
