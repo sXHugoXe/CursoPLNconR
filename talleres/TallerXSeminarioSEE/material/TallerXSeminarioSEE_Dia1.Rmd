@@ -21,7 +21,7 @@ knitr::opts_chunk$set(echo = TRUE)
 knitr::include_graphics("../../../figuras/TallerXSeminarioSEE.jpg")
 ```
 
-# 1. Motivación e introducción
+# Motivación e introducción
 
 ## ¿Qué es la inteligencia artificial (IA)?
 
@@ -47,7 +47,7 @@ Según @Sarkar2019:
 
 *''El PLN es un campo especializado de las ciencias de la computación, la ingeniería y la inteligencia artificial enraizado en la lingüística computacional. Este está principalmente enfocado en el diseño y construcción de aplicaciones y sistemas que permitan la interacción entre máquinas y lenguajes naturales utilizados por el ser humano... Las técnicas de PLN permiten que las computadoras procesen y entiendan el lenguaje natural humano y lo utilicen para dar resultados útiles.''* (traducido del inglés).
 
-# 2. Aplicaciones del PLN
+# Aplicaciones del PLN
 
 ##
 
@@ -70,7 +70,7 @@ Acor a @Abhishek2020 y @Villalonga2019 sugieren que el top de aplicaciones prác
 + Filtrado de correo electrónico
 + Búsqueda de respuestas
 
-# 3. Lenguajes naturales
+# Lenguajes naturales
 
 ##
 
@@ -98,7 +98,7 @@ Acorde a @Villalonga2019, para el procesamiento del lenguaje natural se requiere
 + La **pragmática** es el conocimiento de la relación del significado con los objetivos y las intenciones. Es decir, nos sirve para saber el tipo de expresión que alguien ha utilizado.
 + El **discurso** es el conocimiento sobre unidades lingüísticas más grandes que un solo enunciado. Esto es útil para resolver referencias cruzadas por ejemplo.
 
-# 4. Morfología, morfosintaxis, sintaxis y semántica en el PLN
+# Morfología, morfosintaxis, sintaxis y semántica en el PLN
 
 ## Morfología
 
@@ -152,7 +152,7 @@ knitr::include_graphics("../../../figuras/Semantica.jpg")
 + La mayoría de los modelos que se utilizan para representar el significado tienen en común la capacidad para representar objetos, sus propiedades y las relaciones entre estos.
 + Lo que se suele hacer es **integrar el conocimiento semántico en el análisis sintáctico**.
 
-# 5. Principios básicos del análisis de datos texto
+# Principios básicos del análisis de datos de texto
 
 ## Análisis de datos de texto
 
@@ -200,7 +200,7 @@ A breves rasgos, podemos seguir estos pasos:
 knitr::include_graphics("../../../figuras/NLP_Resources.jpg")
 ```
 
-# 6. Tipos de análisis de texto
+# Tipos de análisis de texto
 
 ## Bolsa de palabras (bag of words)
 
@@ -218,7 +218,7 @@ knitr::include_graphics("../../../figuras/NLP_Resources.jpg")
 
 + Este se basa en la sintaxis de las palabras y utiliza el etiquetado POS (part of speech) para identificar las palabras en un contexto adecuado. Cada una de las etiquetas es analizada para obtener conclusiones y resultados.
 
-# 5. Ejercicio: 'Haremos un caso de análisis que nadie podrá rechazar'
+# Ejercicio: 'Haremos un caso de análisis que nadie podrá rechazar'
 
 ##
 
